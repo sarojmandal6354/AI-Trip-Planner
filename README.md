@@ -1,8 +1,9 @@
+AI Trip Planner
+
 ## Get a free API key
+Go to https://console.groq.com/keys
 
-1. Go to https://console.groq.com/keys
-
-## Run it
+## Run 
 
 ```bash
 pip install -r requirements.txt
@@ -32,4 +33,7 @@ If you hit a `404` or "model decommissioned" error, check
 https://console.groq.com/docs/models for the current lineup and update
 `ITINERARY_MODEL` / `DAY_REGEN_MODEL` in your `.env` -- no other code
 changes needed.
+
+
+Author ~ Saroj Mandal
 
