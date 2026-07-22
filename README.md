@@ -1,4 +1,4 @@
-AI Trip Planner
+##AI Trip Planner
 
 ## Get a free API key
 Go to https://console.groq.com/keys
